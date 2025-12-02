@@ -1,4 +1,3 @@
-import numpy as np
 f = open("input.txt")
 
 dial = 50
