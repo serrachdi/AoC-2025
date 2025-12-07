@@ -10,8 +10,10 @@ for i,x in enumerate(ls):
 
 # Checking the length of each ranges
 # for _ in rnge:
-#     print(len(str(_[0])),"-",len(str(_[1])))
-
+#     #print(len(str(_[0])),"-",len(str(_[1])))
+#     print(_[1]-_[0])
+ 
+ 
 def hard_check(x):
     c = 0
     s_list=[]
@@ -30,7 +32,7 @@ def hard_check(x):
 # np.set_printoptions(precision=0)
 # i = -2
 # print(rnge[i])
-# print(hard_check(rnge[i],return_sym=True))
+# print(hard_check(rnge[i]))
 
 ijustwannasleepfckit = []
 for lines in rnge:
